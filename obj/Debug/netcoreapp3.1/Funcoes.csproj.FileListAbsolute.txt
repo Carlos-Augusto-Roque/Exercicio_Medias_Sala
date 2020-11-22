@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.genruntimeconfig.cache
